@@ -90,6 +90,4 @@ var obj =
   "age": 13,
   "tumo_student":true
 }
-var myJSON = JSON.stringify(obj);
-fs.writeFileSync("obj.json",dummyText);
 
